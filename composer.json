@@ -1,0 +1,29 @@
+{
+    "name": "devrtips/soa",
+    "description": "A simple PHP library to help you structure your code according to Service Oriented Architecture.",
+    "authors": [
+        {
+            "name": "Malitta Nanayakkara",
+            "email": "malitta@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+    	"symfony/translation": "~2.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Devrtips\\Soa\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": { 
+        	"Devrtips\\Soa\\Tests\\": "tests/"
+        }
+    },
+    "license": "mit",
+    "minimum-stability": "stable"
+}
