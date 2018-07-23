@@ -17,7 +17,7 @@ You need to compose your application code through independent layers with well d
 
 ## Example
 
-You can follow the [10 minute "zero-to-hero" tutorial](http://devr.tips) to get an in-depth idea about how this can be used with your project. Or, given below is a basic example of the usage.
+You can follow the 10 minute "zero-to-hero" tutorial](#) to get an in-depth idea about how this can be used with your project. Or, given below is a basic example of the usage.
 
 ##### Controller
 
